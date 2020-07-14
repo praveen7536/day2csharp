@@ -1,0 +1,13 @@
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\bin\Debug\netcoreapp3.1\question2day2.exe
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\bin\Debug\netcoreapp3.1\question2day2.deps.json
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\bin\Debug\netcoreapp3.1\question2day2.runtimeconfig.json
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\bin\Debug\netcoreapp3.1\question2day2.runtimeconfig.dev.json
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\bin\Debug\netcoreapp3.1\question2day2.dll
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\bin\Debug\netcoreapp3.1\question2day2.pdb
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.csprojAssemblyReference.cache
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.AssemblyInfoInputs.cache
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.AssemblyInfo.cs
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.csproj.CoreCompileInputs.cache
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.dll
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.pdb
+C:\Users\PRKUMA16\source\repos\question2day2\question2day2\obj\Debug\netcoreapp3.1\question2day2.genruntimeconfig.cache

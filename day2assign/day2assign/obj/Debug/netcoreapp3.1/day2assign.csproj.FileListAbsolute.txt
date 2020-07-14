@@ -1,0 +1,13 @@
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\bin\Debug\netcoreapp3.1\day2assign.exe
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\bin\Debug\netcoreapp3.1\day2assign.deps.json
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\bin\Debug\netcoreapp3.1\day2assign.runtimeconfig.json
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\bin\Debug\netcoreapp3.1\day2assign.runtimeconfig.dev.json
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\bin\Debug\netcoreapp3.1\day2assign.dll
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\bin\Debug\netcoreapp3.1\day2assign.pdb
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.csprojAssemblyReference.cache
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.AssemblyInfoInputs.cache
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.AssemblyInfo.cs
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.csproj.CoreCompileInputs.cache
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.dll
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.pdb
+C:\Users\PRKUMA16\source\repos\day2assign\day2assign\obj\Debug\netcoreapp3.1\day2assign.genruntimeconfig.cache
